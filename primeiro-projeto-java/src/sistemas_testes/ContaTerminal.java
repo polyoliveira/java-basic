@@ -1,3 +1,4 @@
+package sistemas_testes;
 import java.util.Scanner;
 
 public class ContaTerminal {
