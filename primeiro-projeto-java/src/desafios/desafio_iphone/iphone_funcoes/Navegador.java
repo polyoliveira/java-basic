@@ -1,4 +1,4 @@
-package desafios.desafio_iphone.iphone_funcoes.navegador;
+package desafios.desafio_iphone.iphone_funcoes;
 
 public interface Navegador {
     public void exibirPagina();

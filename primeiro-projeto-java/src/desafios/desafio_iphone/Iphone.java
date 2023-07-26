@@ -1,8 +1,8 @@
 package desafios.desafio_iphone;
 
-import desafios.desafio_iphone.iphone_funcoes.aparelho_telefonico.AparelhoTelefonico;
-import desafios.desafio_iphone.iphone_funcoes.navegador.Navegador;
-import desafios.desafio_iphone.iphone_funcoes.reprodutor_musical.ReprodutorMusical;
+import desafios.desafio_iphone.iphone_funcoes.AparelhoTelefonico;
+import desafios.desafio_iphone.iphone_funcoes.Navegador;
+import desafios.desafio_iphone.iphone_funcoes.ReprodutorMusical;
 
 public class Iphone implements ReprodutorMusical, AparelhoTelefonico, Navegador {
     public static void main(String[] args) {

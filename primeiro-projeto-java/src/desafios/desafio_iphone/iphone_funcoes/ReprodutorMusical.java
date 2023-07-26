@@ -1,4 +1,4 @@
-package desafios.desafio_iphone.iphone_funcoes.reprodutor_musical;
+package desafios.desafio_iphone.iphone_funcoes;
 
 public interface ReprodutorMusical {
     public void tocar();
